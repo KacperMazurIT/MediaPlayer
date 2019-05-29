@@ -1,0 +1,17 @@
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_Content.g.cs
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\bin\Debug\css3.mp4
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kacperek\Desktop\Git\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
